@@ -1,0 +1,4 @@
+Error class
+
+Study the class Error in the reference book: http://php.net/manual/ru/class.error.php
+Call 4 any methods on the object of the class Error within the catch block written in the lesson itself.
